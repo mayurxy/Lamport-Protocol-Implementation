@@ -1,0 +1,273 @@
+0
+localhost
+0
+/home/010/d/dx/dxp151630/RCProtocol/src/
+1
+localhost
+0
+/home/010/d/dx/dxp151630/RCProtocol/src/
+2
+localhost
+0
+/home/010/d/dx/dxp151630/RCProtocol/src/
+Printing Config Parameters 
+ 
+Number Of Nodes=3
+Mean For D in miliseconds=200
+Mean For C in miliseconds=100
+Number Of Request=100
+
+
+Printing Nodes Details 
+
+Node Id: 0 	 Node Hostname :localhost	 Node Port: 19440
+Node Id: 1 	 Node Hostname :localhost	 Node Port: 19441
+Node Id: 2 	 Node Hostname :localhost	 Node Port: 19442
+Printing Config Parameters 
+
+Number Of Nodes=3
+Mean For D in miliseconds=200
+Mean For C in miliseconds=100
+Number Of Request=100
+
+
+Printing Nodes Details 
+
+Node Id: 0 	 Node Hostname :localhost	 Node Port: 19440
+Node Id: 1 	 Node Hostname :localhost	 Node Port: 19441
+Node Id: 2 	 Node Hostname :localhost	 Node Port: 19442
+
+Printing Config Parameters 
+ 
+
+Number Of Nodes=3
+Mean For D in miliseconds=200
+Mean For C in miliseconds=100
+Number Of Request=100
+Printing Nodes Details 
+
+
+Node Id: 0 	 Node Hostname :localhost	 Node Port: 19440
+
+Node Id: 1 	 Node Hostname :localhost	 Node Port: 19441
+Node Id: 2 	 Node Hostname :localhost	 Node Port: 19442
+
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 0
+Executing critical section for node 0
+Leaving critical section for node 0
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
+Entering critical section for node 1
+Executing critical section for node 1
+Leaving critical section for node 1
+Entering critical section for node 2
+Executing critical section for node 2
+Leaving critical section for node 2
